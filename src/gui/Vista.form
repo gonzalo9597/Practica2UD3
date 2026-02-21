@@ -7,7 +7,7 @@
       <xy x="20" y="20" width="741" height="394"/>
     </constraints>
     <properties>
-      <foreground color="-7083521"/>
+      <foreground color="-4473925"/>
       <minimumSize width="741" height="394"/>
     </properties>
     <border type="none"/>
@@ -20,8 +20,8 @@
           <forms/>
         </constraints>
         <properties>
-          <background color="-7083521"/>
-          <foreground color="-41915"/>
+          <background color="-12499888"/>
+          <foreground color="-4473925"/>
         </properties>
         <border type="none"/>
         <children>
@@ -46,7 +46,7 @@
               <tabbedpane title="Calzados"/>
             </constraints>
             <properties>
-              <background color="-7083521"/>
+              <background color="-12499888"/>
             </properties>
             <border type="none"/>
             <children>
@@ -56,8 +56,8 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <background color="-7083521"/>
-                  <foreground color="-41915"/>
+                  <background color="-12499888"/>
+                  <foreground color="-4473925"/>
                   <text value="Modelo"/>
                 </properties>
               </component>
@@ -67,8 +67,8 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <background color="-7083521"/>
-                  <foreground color="-41915"/>
+                  <background color="-12499888"/>
+                  <foreground color="-4473925"/>
                   <text value="SKU"/>
                 </properties>
               </component>
@@ -111,7 +111,7 @@
                 </constraints>
                 <properties>
                   <background color="-7083521"/>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="Marca"/>
                 </properties>
               </component>
@@ -128,8 +128,8 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <actionCommand value="nuevoPuzzleBtn"/>
-                  <foreground color="-41915"/>
+                  <actionCommand value="nuevoCalzadoBtn"/>
+                  <foreground color="-16777216"/>
                   <text value="Registrar"/>
                 </properties>
               </component>
@@ -139,8 +139,8 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <actionCommand value="modificarPuzzleBtn"/>
-                  <foreground color="-41915"/>
+                  <actionCommand value="modificarCalzadoBtn"/>
+                  <foreground color="-16777216"/>
                   <text value="Modificar"/>
                 </properties>
               </component>
@@ -150,8 +150,8 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <actionCommand value="eliminarPuzzleBtn"/>
-                  <foreground color="-41915"/>
+                  <actionCommand value="eliminarCalzadoBtn"/>
+                  <foreground color="-16777216"/>
                   <text value="Eliminar"/>
                 </properties>
               </component>
@@ -176,7 +176,7 @@
               <tabbedpane title="Compradores"/>
             </constraints>
             <properties>
-              <background color="-7083521"/>
+              <background color="-12499888"/>
             </properties>
             <border type="none"/>
             <children>
@@ -186,7 +186,7 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="Nombre"/>
                 </properties>
               </component>
@@ -196,7 +196,7 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="Apellidos"/>
                 </properties>
               </component>
@@ -206,7 +206,7 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="DNI"/>
                 </properties>
               </component>
@@ -244,7 +244,7 @@
                 </constraints>
                 <properties>
                   <actionCommand value="altaCompradorBtn"/>
-                  <foreground color="-41915"/>
+                  <foreground color="-16777216"/>
                   <text value="Registrar"/>
                 </properties>
               </component>
@@ -255,7 +255,7 @@
                 </constraints>
                 <properties>
                   <actionCommand value="modificarCompradorBtn"/>
-                  <foreground color="-41915"/>
+                  <foreground color="-16777216"/>
                   <text value="Modificar"/>
                 </properties>
               </component>
@@ -266,7 +266,7 @@
                 </constraints>
                 <properties>
                   <actionCommand value="eliminarCompradorBtn"/>
-                  <foreground color="-41915"/>
+                  <foreground color="-16777216"/>
                   <text value="Eliminar"/>
                 </properties>
               </component>
@@ -298,6 +298,8 @@
             <rowspec value="center:max(d;4px):noGrow"/>
             <rowspec value="top:4dlu:noGrow"/>
             <rowspec value="center:d:grow"/>
+            <rowspec value="top:4dlu:noGrow"/>
+            <rowspec value="center:max(d;4px):noGrow"/>
             <colspec value="fill:d:noGrow"/>
             <colspec value="left:4dlu:noGrow"/>
             <colspec value="fill:d:grow"/>
@@ -305,7 +307,7 @@
               <tabbedpane title="Marcas"/>
             </constraints>
             <properties>
-              <background color="-7083521"/>
+              <background color="-12499888"/>
             </properties>
             <border type="none"/>
             <children>
@@ -315,7 +317,7 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="Nombre"/>
                 </properties>
               </component>
@@ -325,7 +327,7 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="Teléfono"/>
                 </properties>
               </component>
@@ -335,8 +337,8 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <actionCommand value="altaEditorialBtn"/>
-                  <foreground color="-41915"/>
+                  <actionCommand value="altaMarcaBtn"/>
+                  <foreground color="-16777216"/>
                   <text value="Registrar"/>
                 </properties>
               </component>
@@ -346,8 +348,8 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <actionCommand value="modificarEditorialBtn"/>
-                  <foreground color="-41915"/>
+                  <actionCommand value="modificarMarcaBtn"/>
+                  <foreground color="-16777216"/>
                   <text value="Modificar"/>
                 </properties>
               </component>
@@ -357,8 +359,8 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <actionCommand value="eliminarEditorialBtn"/>
-                  <foreground color="-41915"/>
+                  <actionCommand value="eliminarMarcaBtn"/>
+                  <foreground color="-16777216"/>
                   <text value="Eliminar"/>
                 </properties>
               </component>
@@ -409,10 +411,19 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <actionCommand value="listarEditorialPuzzlesBtn"/>
-                  <background color="-4133946"/>
-                  <foreground color="-41915"/>
+                  <actionCommand value="listarMarcaCalzadosBtn"/>
+                  <background color="-4473925"/>
+                  <foreground color="-1"/>
                   <text value="Ver Calzados"/>
+                </properties>
+              </component>
+              <component id="b1a75" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="12" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <forms/>
+                </constraints>
+                <properties>
+                  <text value=""/>
                 </properties>
               </component>
             </children>
@@ -434,7 +445,7 @@
               <tabbedpane title="Tiendas"/>
             </constraints>
             <properties>
-              <background color="-7083521"/>
+              <background color="-12499888"/>
             </properties>
             <border type="none"/>
             <children>
@@ -444,7 +455,7 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="Nombre"/>
                 </properties>
               </component>
@@ -454,7 +465,7 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="Teléfono"/>
                 </properties>
               </component>
@@ -465,7 +476,7 @@
                 </constraints>
                 <properties>
                   <actionCommand value="modificarTiendaBtn"/>
-                  <foreground color="-41915"/>
+                  <foreground color="-16777216"/>
                   <text value="Modificar"/>
                 </properties>
               </component>
@@ -476,7 +487,7 @@
                 </constraints>
                 <properties>
                   <actionCommand value="eliminarTiendaBtn"/>
-                  <foreground color="-41915"/>
+                  <foreground color="-16777216"/>
                   <text value="Eliminar"/>
                 </properties>
               </component>
@@ -521,7 +532,7 @@
                 </constraints>
                 <properties>
                   <actionCommand value="altaTiendaBtn"/>
-                  <foreground color="-41915"/>
+                  <foreground color="-16777216"/>
                   <text value="Registrar"/>
                 </properties>
               </component>
@@ -546,7 +557,7 @@
               <tabbedpane title="Venta"/>
             </constraints>
             <properties>
-              <background color="-7083521"/>
+              <background color="-12499888"/>
             </properties>
             <border type="none"/>
             <children>
@@ -556,7 +567,7 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="Precio"/>
                 </properties>
               </component>
@@ -575,7 +586,7 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="Tienda"/>
                 </properties>
               </component>
@@ -592,7 +603,7 @@
                   <forms/>
                 </constraints>
                 <properties>
-                  <foreground color="-41915"/>
+                  <foreground color="-4473925"/>
                   <text value="Calzado"/>
                 </properties>
               </component>
@@ -619,7 +630,7 @@
                 </constraints>
                 <properties>
                   <actionCommand value="altaVentaBtn"/>
-                  <foreground color="-41915"/>
+                  <foreground color="-16777216"/>
                   <text value="Registrar"/>
                 </properties>
               </component>
@@ -630,7 +641,7 @@
                 </constraints>
                 <properties>
                   <actionCommand value="eliminarVentaBtn"/>
-                  <foreground color="-41915"/>
+                  <foreground color="-16777216"/>
                   <text value="Eliminar"/>
                 </properties>
               </component>
@@ -641,7 +652,7 @@
                 </constraints>
                 <properties>
                   <actionCommand value="modificarVentaBtn"/>
-                  <foreground color="-41915"/>
+                  <foreground color="-16777216"/>
                   <text value="Modificar"/>
                 </properties>
               </component>

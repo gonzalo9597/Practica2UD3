@@ -73,6 +73,11 @@ public class Vista extends JFrame {
         frame = new JFrame("Tienda de Calzados");
         frame.setContentPane(panel1);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setIconImage(
+                new ImageIcon(getClass().getResource("/jordan.png")).getImage()
+        );
+        //Lo colocamos donde el Frame ya existe, pero todavía no es visible (después de configurar el frame básico)
+        //Para que coja la imagen cuando creemos el JAR (la imagen tiene que ir en resources)
         //frame.pack();
         frame.setVisible(true);
         frame.setSize(new Dimension(800,430));

@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.Objects;
 
 @Entity
-@Table(name = "calzado")
 public class Calzado {
 
     private int idcalzado;

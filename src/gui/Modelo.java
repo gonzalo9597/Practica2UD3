@@ -58,7 +58,7 @@ public class Modelo {
      */
     ArrayList<Calzado> getMarcaCalzados(Marca marca) {
         Session sesion = sessionFactory.openSession();
-        Query query = sesion.createQuery("FROM Calzado WHERE Marca = :m");
+        Query query = sesion.createQuery("FROM Calzado WHERE marca = :m");
         query.setParameter("m", marca);
         ArrayList<Calzado> lista = (ArrayList<Calzado>) query.getResultList();
         sesion.close();
