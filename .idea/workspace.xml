@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Practica2UD3Calzados:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7b9c268e-0185-438b-98e8-0128bdd4a354" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica2UD3Calzados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practica2UD3Calzados.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/META-INF/Practica2UD3Calzados.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/Calzado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/Calzado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/Comprador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/Comprador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/CompradorCalzado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/CompradorCalzado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/Marca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/Marca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/Tienda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/Tienda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/VentaCalzado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/com/calzados/practica2ud3/VentaCalzado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/gui/Modelo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/gui/Modelo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/gui/Vista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica2UD3Calzados/gui/Vista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/calzados/practica2ud3/Calzado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/calzados/practica2ud3/Calzado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/calzados/practica2ud3/Comprador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/calzados/practica2ud3/Comprador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/calzados/practica2ud3/CompradorCalzado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/calzados/practica2ud3/CompradorCalzado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/calzados/practica2ud3/Marca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/calzados/practica2ud3/Marca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/calzados/practica2ud3/Tienda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/calzados/practica2ud3/Tienda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/calzados/practica2ud3/VentaCalzado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/calzados/practica2ud3/VentaCalzado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/Modelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/Modelo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/Vista.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/Vista.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/Vista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/Vista.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +56,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/flatlaf-3.4.1.jar!/" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -141,7 +123,8 @@
       <workItem from="1771699965517" duration="1302000" />
       <workItem from="1771701299539" duration="97000" />
       <workItem from="1771702380001" duration="7960000" />
-      <workItem from="1771710416897" duration="3029000" />
+      <workItem from="1771710416897" duration="3673000" />
+      <workItem from="1771781592864" duration="772000" />
     </task>
     <servers />
   </component>
